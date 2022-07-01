@@ -109,7 +109,6 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    /* flex-wrap: wrap; */
     padding: 35px 0px;
     margin: 50px 50px 0px 50px;
     background-color: #9978c08d;

@@ -51,7 +51,7 @@
 
 .navbar ::after {
     content: "";
-    background: url('/images/bg.jpg') no-repeat center/cover;
+    background: url('images/bg.jpg') no-repeat center/cover;
     position: absolute;
     top: 0px;
     left: 0px;
@@ -59,18 +59,6 @@
     min-height: 100vh;
     z-index: -10;
 }
-
-/* .navbar ::before {
-    content: "";
-    background: #000;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 100%;
-    min-height: 100vh;
-    z-index: -5;
-    opacity: 0.02;
-} */
 
 .intro {
     color: #fff;
